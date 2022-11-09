@@ -1,1 +1,1 @@
-# apisix-profiler
+# skynet-profiler
