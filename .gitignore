@@ -1,0 +1,8 @@
+.vscode/
+profiler/.output/*
+profiler/*.o
+profiler/profile
+profiler/*.bt
+tools/
+vmlinux/
+profiler/vmlinux.tar
